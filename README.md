@@ -25,6 +25,5 @@
 
 ## :mega: My stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&include_all_commits=true&theme=cobalt)](https://github.com/T1GIT/github-readme-stats&custom_title=Statistics)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/T1GIT/github-readme-stats&custom_title=Statistics)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
