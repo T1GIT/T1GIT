@@ -1,10 +1,7 @@
 ## Hey 👋, This is Dmitriy
 
 [![Gmail Badge](https://img.shields.io/badge/-derbindima5@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:derbindima5@gmail.com)](mailto:derbindima5@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-T1GIT-grey?style=flat&logo=github&logoColor=white&link=https://github.com/T1GIT/)](https://www.github.com/T1GIT/) 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=T1GIT alt=T1GIT /> </p>
-
-<p align='left'>Like beatiful code</p>
+[![Github Badge](https://img.shields.io/badge/-T1GIT-grey?style=flat&logo=github&logoColor=white&link=https://github.com/T1GIT/)](https://www.github.com/T1GIT/) <p align=left> <img src=https://komarev.com/ghpvc/?username=T1GIT alt=T1GIT /> </p>
 
 ## My stats
 
