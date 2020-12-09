@@ -15,9 +15,11 @@
 * Java
 * Python
 * Java Script
+
 ### :eyes: FrontEnd
 * Sass
 * JQuery
+
 ### :busts_in_silhouette: BackEnd
 * Flask
 * NodeJS
