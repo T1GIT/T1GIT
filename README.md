@@ -45,9 +45,16 @@
 <img src='pics/langs.png' alt="Skills"/>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=4186d3&color=0a9c6d">
-    <img src="https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=4186d3&color=0a9c6d">
-    <img src="https://img.shields.io/badge/IDE-ItelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=4186d3&color=0a9c6d">
+    <div>
+        <img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=4186d3&color=0a9c6d">
+        <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=4186d3&color=0a9c6d">
+        <img src="https://img.shields.io/badge/OS-Mint-informational?style=flat-square&logo=mint&logoColor=4186d3&color=0a9c6d">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=4186d3&color=0a9c6d">
+        <img src="https://img.shields.io/badge/IDE-ItelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=4186d3&color=0a9c6d">
+        <img src="https://img.shields.io/badge/IDE-WebStorm-informational?style=flat-square&logo=web-storm&logoColor=4186d3&color=0a9c6d">
+    </div>
     <img src="https://img.shields.io/badge/Processor-Core%20I5%207500U-informational?style=flat-square&logo=intel&logoColor=4186d3&color=0a9c6d">
     <img src="https://img.shields.io/badge/Video%20Card-GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d">
 </div>
