@@ -1,4 +1,3 @@
-##
 <img src='pics/nick.png'/>
 
 <div align="center">
