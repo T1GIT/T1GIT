@@ -3,13 +3,16 @@
 
 
 # 🔎 Find
-[![VK Badge](https://img.shields.io/badge/-T1MONVK-blue?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/T1MONVK/)](https://vk.com/T1MONVK/) 
-[![Inst Badge](https://img.shields.io/badge/-_BEAUTY_IS_A_DUTY_-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_beauty_is_a_duty_/)](https://www.instagram.com/_beauty_is_a_duty_/) 
-[![Tg Badge](https://img.shields.io/badge/-T1TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/T1TELGRAM)](https://t.me/T1TELGRAM) 
-[![Phone Badge](https://img.shields.io/badge/-+7(982)%20120%2073%2055-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white&link=+79821207355)](+79821207355) 
-[![Github Badge](https://img.shields.io/badge/-T1MONTWITCH-6441a5?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/t1montwitch)](https://www.twitch.tv/t1montwitch) 
-[![Gmail Badge](https://img.shields.io/badge/-derbindima5@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:derbindima5@gmail.com)](mailto:derbindima5@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-T1GIT-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/T1GIT/)](https://www.github.com/T1GIT/) 
+
+<div align="center">
+    <img src="https://img.shields.io/badge/-T1MONVK-blue?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/T1MONVK/">
+    <img src="https://img.shields.io/badge/-_BEAUTY_IS_A_DUTY_-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_beauty_is_a_duty_/">
+    <img src="https://img.shields.io/badge/-T1TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/T1TELGRAM">
+    <img src="https://img.shields.io/badge/-+7(982)%20120%2073%2055-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white&link=+79821207355">
+    <img src="https://img.shields.io/badge/-T1MONTWITCH-6441a5?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/t1montwitch">
+    <img src="https://img.shields.io/badge/-derbindima5@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:derbindima5@gmail.com">
+    <img src="https://img.shields.io/badge/-T1GIT-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/T1GIT/">
+</div>
 
 
 # 😇 About
@@ -25,23 +28,25 @@
 # 💪 Skills
 <img src='pics/langs.png' alt="Skills"/>
 
-![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=4186d3&color=0a9c6d)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=4186d3&color=0a9c6d)
-![](https://img.shields.io/badge/IDE-ItelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=4186d3&color=0a9c6d)
-![](https://img.shields.io/badge/Processor-Intel%20Core%20I5%207500U-informational?style=flat-square&logo=intel&logoColor=4186d3&color=0a9c6d)
-![](https://img.shields.io/badge/Video%20Card-Nvidia%20GeForce%20GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d)
+<div align="center">
+    <img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=4186d3&color=0a9c6d">
+    <img src="https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=4186d3&color=0a9c6d">
+    <img src="https://img.shields.io/badge/IDE-ItelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=4186d3&color=0a9c6d">
+    <img src="https://img.shields.io/badge/Processor-Intel%20Core%20I5%207500U-informational?style=flat-square&logo=intel&logoColor=4186d3&color=0a9c6d">
+    <img src="https://img.shields.io/badge/Video%20Card-Nvidia%20GeForce%20GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d">
+</div>
 
 ## 👅 Languages
 <div align="center">
     <span align="center">
         <img src='icons/skills/java.png' width="40" height="40"/> 
-        <p><b>Java</b></p>
+        <b>Java</b>
     </span>
     <span align="center">
         <img src='icons/skills/python.png' width="40" height="40"/> 
         <b>Python</b>
     </span>
-    <span align="center" onmouseenter="alert('jifejf')">
+    <span align="center">
         <img src='icons/skills/js.png' width="40" height="40"/>
         <b>JavaScript</b>
     </span>
