@@ -21,7 +21,7 @@
     </div>
     <div>
         <a href="+79821207355">
-            <img src="https://img.shields.io/badge/-+7(982)%20120%2073%2055-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white">
+            <img src="https://img.shields.io/badge/-+7(982)%20120%2073%2055-075e54?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
         <a href="mailto:derbindima5@gmail.com">
             <img src="https://img.shields.io/badge/-derbindima5@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
@@ -120,9 +120,9 @@
 # 📊 Stats
 
 <div align="center">
-    <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true)](https://github.com/T1GIT/github-readme-stats&custom_title=Statistics" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true)](https://github.com/T1GIT/github-readme-stats&custom_title=Statistics" align="center" />
 </div> 
 
 <div align="center">
-    <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=vue-dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=vue-dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats" align="center" />
 </div> 
