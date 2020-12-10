@@ -101,6 +101,8 @@
     <b>JQuery</b>
     <img src='icons/skills/sass.png' width="50" height="50"/> 
     <b>Sass</b>
+    <img src='icons/skills/pug.svg' width="50" height="50"/>
+    <b>Pug</b>
 </div>
 
 
@@ -136,7 +138,6 @@
     <img src='icons/other/heroku.png' width="50" height="50"/>
     <img src='icons/other/html.png' width="50" height="50"/>
     <img src='icons/other/css.png' width="50" height="50"/>
-    <img src='icons/other/pug.svg' width="50" height="50"/>
     <img src='icons/other/ajax.png' width="50" height="50"/>
     <img src='icons/other/rsa.jpg' width="50" height="50"/>
     <img src='icons/other/gulp.png' width="50" height="50"/>
