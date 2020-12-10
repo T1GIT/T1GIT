@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Video%20Card-Nvidia%20GeForce%20GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d)
 
 ### 👅 Languages
-* <img src='Pictures/java.png'/> Java
+* <img src='Icons/java.png'/> Java
 * Python
 * Java Script
 
