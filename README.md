@@ -1,4 +1,4 @@
-<!-- 😉 HELLO MY LITTLE RESEARCHER -->
+<!-- CATCH YOU! MY LITTLE RESEARCHER 😉 -->
 
 <img src='pics/nick.png'/>
 
