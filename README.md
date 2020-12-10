@@ -32,12 +32,20 @@
 ![](https://img.shields.io/badge/Video%20Card-Nvidia%20GeForce%20GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d)
 
 ## 👅 Languages
-<img src='icons/skills/java.png' width="40" height="40"/> 
-<b>Java</b>
-<img src='icons/skills/python.png' width="40" height="40"/> 
-<b>Python</b>
-<img src='icons/skills/js.png' width="40" height="40"/> 
-<b>JavaScript</b>
+<div align="center">
+    <span>
+        <img src='icons/skills/java.png' width="40" height="40"/> 
+        <b>Java</b>
+    </span>
+    <span>
+        <img src='icons/skills/python.png' width="40" height="40"/> 
+        <b>Python</b>
+    </span>
+    <span>
+        <img src='icons/skills/js.png' width="40" height="40"/> 
+        <b>JavaScript</b>
+    </span>
+</div>
 
 ## 👀 FrontEnd
 <img src='icons/skills/jquery.png' width="40" height="40"/> 
