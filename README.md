@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/-SKILLS-4186d3?style=for-the-badge">
     </a> <a href="#-statistics">
         <img src="https://img.shields.io/badge/-STATISTICS-0a9c6d?style=for-the-badge">
-    </a> <a href="#-thanks-for-reading">
+    </a> <a href="#--thanks-for-reading-">
         <img src="https://img.shields.io/badge/-THANKS-4186d3?style=for-the-badge">
     </a>
 </div>
