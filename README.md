@@ -35,7 +35,7 @@
 <div align="center">
     <span align="center">
         <img src='icons/skills/java.png' width="40" height="40"/> 
-        <b>Java</b>
+        <p><b>Java</b></p>
     </span>
     <span align="center">
         <img src='icons/skills/python.png' width="40" height="40"/> 
