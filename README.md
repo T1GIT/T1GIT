@@ -8,7 +8,6 @@
     <a href="https://vk.com/T1MONVK/">
         <img src="https://img.shields.io/badge/-T1MONVK-blue?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/T1MONVK/">
     </a>
-    
     <img src="https://img.shields.io/badge/-_BEAUTY_IS_A_DUTY_-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_beauty_is_a_duty_/">
     <img src="https://img.shields.io/badge/-T1TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/T1TELGRAM">
     <img src="https://img.shields.io/badge/-+7(982)%20120%2073%2055-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white&link=+79821207355">
