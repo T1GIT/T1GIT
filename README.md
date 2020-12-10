@@ -1,22 +1,27 @@
 <img src='pics/nick.png'/>
 
 <div align="center">
-    <a href="#-Find">
+    <a href="#-favorites">
+        <img src="https://img.shields.io/badge/-FAVORITES-0a9c6d?style=for-the-badge">
+    </a> <a href="#-find">
         <img src="https://img.shields.io/badge/-FIND-4186d3?style=for-the-badge">
-    </a>
-    <a href="#-about">
+    </a> <a href="#-about">
         <img src="https://img.shields.io/badge/-ABOUT-0a9c6d?style=for-the-badge">
-    </a>
-    <a href="#-skills">
+    </a> <a href="#-skills">
         <img src="https://img.shields.io/badge/-SKILLS-4186d3?style=for-the-badge">
-    </a>
-    <a href="#-stats">
+    </a> <a href="#-stats">
         <img src="https://img.shields.io/badge/-STATS-0a9c6d?style=for-the-badge">
-    </a>
-    <a href="#-thanks-for-reading">
+    </a> <a href="#-thanks-for-reading">
         <img src="https://img.shields.io/badge/-THANKS-4186d3?style=for-the-badge">
     </a>
 </div>
+
+
+# 🌟 Favorites
+[![Time Manager Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Time-Manager)](https://github.com/T1GIT/Time-Manager)
+[![Weather Bot Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Weather_Bot)](https://github.com/T1GIT/Weather_bot)
+[![Sea Battle Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=SeaBattle)](https://github.com/T1GIT/SeaBattle)
+<-- TODO: MINI GAMES IS THERE -->
 
 # 🔎 Find
 
@@ -24,25 +29,20 @@
     <div>
         <a href="https://vk.com/T1MONVK/">
             <img src="https://img.shields.io/badge/-T1MONVK-blue?style=for-the-badge&logo=vk&logoColor=white">
-        </a>
-        <a href="https://www.instagram.com/_beauty_is_a_duty_/">
+        </a> <a href="https://www.instagram.com/_beauty_is_a_duty_/">
             <img src="https://img.shields.io/badge/-__BEAUTY__IS__A__DUTY__-C13584?style=for-the-badge&logo=instagram&logoColor=white">
-        </a>
-        <a href="https://t.me/T1TELGRAM">
+        </a> <a href="https://t.me/T1TELGRAM">
             <img src="https://img.shields.io/badge/-T1TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
-        </a>
-        <a href="https://www.twitch.tv/t1montwitch">
+        </a> <a href="https://www.twitch.tv/t1montwitch">
             <img src="https://img.shields.io/badge/-T1MONTWITCH-6441a5?style=for-the-badge&logo=twitch&logoColor=white">
         </a>
     </div>
     <div>
         <a href="+79821207355">
             <img src="https://img.shields.io/badge/-+7(982)%20120%2073%2055-075e54?style=for-the-badge&logo=whatsapp&logoColor=white">
-        </a>
-        <a href="mailto:derbindima5@gmail.com">
+        </a> <a href="mailto:derbindima5@gmail.com">
             <img src="https://img.shields.io/badge/-derbindima5@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
-        </a>
-        <a href="https://github.com/T1GIT/">
+        </a> <a href="https://github.com/T1GIT/">
             <img src="https://img.shields.io/badge/-T1GIT-grey?style=for-the-badge&logo=github&logoColor=white">
         </a>
     </div>
@@ -143,4 +143,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=vue-dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats" align="center" />
 </div> 
 
-# 💜 Thanks for reading
+### 💜 Thanks for reading
