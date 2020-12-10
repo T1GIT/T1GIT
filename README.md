@@ -50,52 +50,52 @@
 
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=for-the-badge&logo=windows&logoColor=4186d3&color=0a9c6d">
-        <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=4186d3&color=0a9c6d">
-        <img src="https://img.shields.io/badge/OS-Mint-informational?style=for-the-badge&logo=linux&logoColor=4186d3&color=0a9c6d">
-    </div>
-    <div>
         <img src="https://img.shields.io/badge/IDE-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=4186d3&color=0a9c6d">
         <img src="https://img.shields.io/badge/IDE-ItelliJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=4186d3&color=0a9c6d">
         <img src="https://img.shields.io/badge/IDE-WebStorm-informational?style=for-the-badge&logo=webstorm&logoColor=4186d3&color=0a9c6d">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=for-the-badge&logo=windows&logoColor=4186d3&color=0a9c6d">
+        <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=4186d3&color=0a9c6d">
+        <img src="https://img.shields.io/badge/OS-Mint-informational?style=for-the-badge&logo=linux&logoColor=4186d3&color=0a9c6d">
     </div>
 </div>
 
 ## 👅 Languages
 <div align="center">
-    <img src='icons/skills/java.png' width="40" height="40"/> 
+    <img src='icons/skills/java.png' width="50" height="50"/> 
     <b>Java</b>
-    <img src='icons/skills/python.png' width="40" height="40"/> 
+    <img src='icons/skills/python.png' width="50" height="50"/> 
     <b>Python</b>
-    <img src='icons/skills/js.png' width="40" height="40"/>
+    <img src='icons/skills/js.png' width="50" height="50"/>
     <b>JavaScript</b>
 </div>
 
 ## 👀 FrontEnd
 <div align="center">
-    <img src='icons/skills/jquery.png' width="40" height="40"/> 
+    <img src='icons/skills/jquery.png' width="50" height="50"/> 
     <b>JQuery</b>
-    <img src='icons/skills/sass.png' width="40" height="40"/> 
+    <img src='icons/skills/sass.png' width="50" height="50"/> 
     <b>Sass</b>
 </div>
 
 ## 📡 BackEnd
 <div align="center">
-    <img src='icons/skills/flasks.png' width="40" height="40"/> 
+    <img src='icons/skills/flasks.png' width="50" height="50"/> 
     <b>Flask</b>
-    <img src='icons/skills/nodejs.png' width="40" height="40"/> 
+    <img src='icons/skills/nodejs.png' width="50" height="50"/> 
     <b>NodeJS</b>
-    <img src='icons/skills/spring.png' width="40" height="40"/> 
+    <img src='icons/skills/spring.png' width="50" height="50"/> 
     <b>Spring</b>
 </div>
 
 ## ✏️ Graphics
 <div align="center">
-    <img src='icons/skills/ps.png' width="40" height="40"/> 
+    <img src='icons/skills/ps.png' width="50" height="50"/> 
     <b>Photoshop</b>
-    <img src='icons/skills/ai.png' width="40" height="40"/> 
+    <img src='icons/skills/ai.png' width="50" height="50"/> 
     <b>Illustrator</b>
-    <img src='icons/skills/figma.png' width="40" height="40"/> 
+    <img src='icons/skills/figma.png' width="50" height="50"/> 
     <b>Figma</b>
 </div>
 
