@@ -71,7 +71,7 @@
 <div align="center">
     <div>
         <img src="https://img.shields.io/badge/IDE-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=4186d3&color=0a9c6d">
-        <img src="https://img.shields.io/badge/IDE-ItelliJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=4186d3&color=0a9c6d">
+        <img src="https://img.shields.io/badge/IDE-IntelliJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=4186d3&color=0a9c6d">
         <img src="https://img.shields.io/badge/IDE-WebStorm-informational?style=for-the-badge&logo=webstorm&logoColor=4186d3&color=0a9c6d">
     </div>
     <div>
