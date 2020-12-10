@@ -1,5 +1,6 @@
 <img src='pics/nick.png'/>
 
+----------------------------------------------------------------------------------
 <div align="center">
     <a href="#-favorites">
         <img src="https://img.shields.io/badge/-FAVORITES-0a9c6d?style=for-the-badge">
@@ -16,7 +17,6 @@
     </a>
 </div>
 
-----------------------------------------------------------------------------------
 
 # 🌟 Favorites
 [![Time Manager Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Time-Manager&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/Time-Manager)
