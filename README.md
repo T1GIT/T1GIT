@@ -6,14 +6,26 @@
 
 <div align="center">
     <a href="https://vk.com/T1MONVK/">
-        <img src="https://img.shields.io/badge/-T1MONVK-blue?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/T1MONVK/">
+        <img src="https://img.shields.io/badge/-T1MONVK-blue?style=for-the-badge&logo=vk&logoColor=white">
     </a>
-    <img src="https://img.shields.io/badge/-_BEAUTY_IS_A_DUTY_-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_beauty_is_a_duty_/">
-    <img src="https://img.shields.io/badge/-T1TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/T1TELGRAM">
-    <img src="https://img.shields.io/badge/-+7(982)%20120%2073%2055-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white&link=+79821207355">
-    <img src="https://img.shields.io/badge/-T1MONTWITCH-6441a5?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/t1montwitch">
-    <img src="https://img.shields.io/badge/-derbindima5@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:derbindima5@gmail.com">
-    <img src="https://img.shields.io/badge/-T1GIT-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/T1GIT/">
+    <a href="https://www.instagram.com/_beauty_is_a_duty_/">
+        <img src="https://img.shields.io/badge/-_BEAUTY_IS_A_DUTY_-C13584?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://t.me/T1TELGRAM">
+        <img src="https://img.shields.io/badge/-T1TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+    <a href="+79821207355">
+        <img src="https://img.shields.io/badge/-+7(982)%20120%2073%2055-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+    <a href="https://www.twitch.tv/t1montwitch">
+        <img src="https://img.shields.io/badge/-T1MONTWITCH-6441a5?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
+    <a href="mailto:derbindima5@gmail.com">
+        <img src="https://img.shields.io/badge/-derbindima5@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://github.com/T1GIT/">
+        <img src="https://img.shields.io/badge/-T1GIT-grey?style=for-the-badge&logo=github&logoColor=white">
+    </a>
 </div>
 
 
