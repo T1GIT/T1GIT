@@ -72,29 +72,35 @@
 </div>
 
 ## 👀 FrontEnd
-<img src='icons/skills/jquery.png' width="40" height="40"/> 
-<b>JQuery</b>
-<img src='icons/skills/sass.png' width="40" height="40"/> 
-<b>Sass</b>
+<div align="center">
+    <img src='icons/skills/jquery.png' width="40" height="40"/> 
+    <b>JQuery</b>
+    <img src='icons/skills/sass.png' width="40" height="40"/> 
+    <b>Sass</b>
+</div>
 
 ## 📡 BackEnd
-<img src='icons/skills/flasks.png' width="40" height="40"/> 
-<b>Flask</b>
-<img src='icons/skills/nodejs.png' width="40" height="40"/> 
-<b>NodeJS</b>
-<img src='icons/skills/spring.png' width="40" height="40"/> 
-<b>Spring</b>
+<div align="center">
+    <img src='icons/skills/flasks.png' width="40" height="40"/> 
+    <b>Flask</b>
+    <img src='icons/skills/nodejs.png' width="40" height="40"/> 
+    <b>NodeJS</b>
+    <img src='icons/skills/spring.png' width="40" height="40"/> 
+    <b>Spring</b>
+</div>
 
 ## ✏️ Graphics
-<img src='icons/skills/ps.png' width="40" height="40"/> 
-<b>Photoshop</b>
-<img src='icons/skills/ai.png' width="40" height="40"/> 
-<b>Illustrator</b>
-<img src='icons/skills/figma.png' width="40" height="40"/> 
-<b>Figma</b>
+<div align="center">
+    <img src='icons/skills/ps.png' width="40" height="40"/> 
+    <b>Photoshop</b>
+    <img src='icons/skills/ai.png' width="40" height="40"/> 
+    <b>Illustrator</b>
+    <img src='icons/skills/figma.png' width="40" height="40"/> 
+    <b>Figma</b>
+</div>
 
 ## 📜 Others
-<p>
+<div align="center">
     <img src='icons/other/bot.png' width="50" height="50"/>
     <img src='icons/other/gson.png' width="50" height="50"/>
     <img src='icons/other/heroku.png' width="50" height="50"/>
@@ -108,7 +114,7 @@
     <img src='icons/other/vba.png' width="50" height="50"/>
     <img src='icons/other/pygame.png' width="50" height="50"/>
     <img src='icons/other/tkinter.png' width="50" height="50"/>
-</p>
+</div>
 
 
 # 📊 Stats
