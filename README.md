@@ -1,3 +1,5 @@
+<!-- 😉 HELLO MY LITTLE RESEARCHER -->
+
 <img src='pics/nick.png'/>
 
 <div align="center">
@@ -19,6 +21,7 @@
 ----------------------------------------------------------------------------------
 
 # 🌟 Favorites
+
 [![Time Manager Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Time-Manager&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/Time-Manager)
 [![Weather Bot Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Weather_Bot&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/Weather_bot)
 [![Sea Battle Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=SeaBattle&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/SeaBattle)
@@ -52,7 +55,6 @@
 
 # 😇 About
 
-
 <div align="center">
     <b><i>
         <p>Developer from Russia. I study Python and Java at the university.</p>
@@ -63,6 +65,7 @@
 </div>
 
 # 💪 Skills
+
 <img src='pics/langs.png' alt="Skills"/>
 
 <div align="center">
@@ -78,7 +81,9 @@
     </div>
 </div>
 
+
 ## 👅 Languages
+
 <div align="center">
     <img src='icons/skills/java.png' width="50" height="50"/> 
     <b>Java</b>
@@ -88,7 +93,9 @@
     <b>JavaScript</b>
 </div>
 
+
 ## 👀 FrontEnd
+
 <div align="center">
     <img src='icons/skills/jquery.png' width="50" height="50"/> 
     <b>JQuery</b>
@@ -96,7 +103,9 @@
     <b>Sass</b>
 </div>
 
+
 ## 📡 BackEnd
+
 <div align="center">
     <img src='icons/skills/flasks.png' width="50" height="50"/> 
     <b>Flask</b>
@@ -106,7 +115,9 @@
     <b>Spring</b>
 </div>
 
+
 ## ✏️ Graphics
+
 <div align="center">
     <img src='icons/skills/ps.png' width="50" height="50"/> 
     <b>Photoshop</b>
@@ -116,7 +127,9 @@
     <b>Figma</b>
 </div>
 
+
 ## 📜 Others
+
 <div align="center">
     <img src='icons/other/bot.png' width="50" height="50"/>
     <img src='icons/other/gson.png' width="50" height="50"/>
