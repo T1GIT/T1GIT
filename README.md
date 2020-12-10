@@ -20,26 +20,26 @@
 ![](https://img.shields.io/badge/Processor-Intel%20Core%20I5%207500U-informational?style=flat-square&logo=intel&logoColor=4186d3&color=0a9c6d)
 ![](https://img.shields.io/badge/Video%20Card-Nvidia%20GeForce%20GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d)
 
-### 👅 Languages
-* <img src='Icons/java.png' width="30" height="30"/> Java
-* Python
-* Java Script
+## 👅 Languages
+<img src='Icons/java.png' width="30" height="30"/> Java
+<img src='Icons/python.png' width="30" height="30"/> Python
+<img src='Icons/js.png' width="30" height="30"/> Java Script
 
-### 👀 FrontEnd
-* Sass
-* JQuery
+## 👀 FrontEnd
+<img src='Icons/sass.png' width="30" height="30"/> Sass
+<img src='Icons/jquery.png' width="30" height="30"/> JQuery
 
-### 📡 BackEnd
-* Flask
-* NodeJS
-* Spring
+## 📡 BackEnd
+<img src='Icons/flasks.png' width="30" height="30"/> Flask
+<img src='Icons/nodejs.png' width="30" height="30"/> NodeJS
+<img src='Icons/spring.png' width="30" height="30"/> Spring
 
-### ✏️ Graphics
-* Photoshop
-* Illustrator
-* Figma
+## ✏️ Graphics
+<img src='Icons/ps.png' width="30" height="30"/> Photoshop
+<img src='Icons/ai.png' width="30" height="30"/> Illustrator
+<img src='Icons/figma.png' width="30" height="30"/> Figma
 
-### 📜 Others
+## 📜 Others
 
 <p align="left"> 
   <a href="https://www.postgresql.org" target="_blank"> 
