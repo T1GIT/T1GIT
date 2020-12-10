@@ -18,9 +18,9 @@
 
 
 # 🌟 Favorites
-[![Time Manager Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Time-Manager)](https://github.com/T1GIT/Time-Manager)
-[![Weather Bot Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Weather_Bot)](https://github.com/T1GIT/Weather_bot)
-[![Sea Battle Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=SeaBattle)](https://github.com/T1GIT/SeaBattle)
+[![Time Manager Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Time-Manager&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/Time-Manager)
+[![Weather Bot Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Weather_Bot&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/Weather_bot)
+[![Sea Battle Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=SeaBattle&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/SeaBattle)
 <!-- TODO: MINI GAMES IS THERE -->
 
 # 🔎 Find
