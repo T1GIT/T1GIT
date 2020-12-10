@@ -144,4 +144,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=cobalt&layout=compact&langs_count=4&custom_title=Favorite%20Languages&hide_border=true" align="center" />
 </div> 
 
-### 💜 Thanks for reading
+<h2 align="right"> 💜 Thanks for reading </h2>
