@@ -63,18 +63,18 @@
 
 ## 👅 Languages
 <div align="center">
-    <span align="center">
+    <div align="center" style="display: inline-block">
         <img src='icons/skills/java.png' width="40" height="40"/> 
         <b>Java</b>
-    </span>
-    <span align="center">
+    </div>
+    <div align="center" style="display: inline-block">
         <img src='icons/skills/python.png' width="40" height="40"/> 
         <b>Python</b>
-    </span>
-    <span align="center">
+    </div>
+    <div align="center" style="display: inline-block">
         <img src='icons/skills/js.png' width="40" height="40"/>
         <b>JavaScript</b>
-    </span>
+    </div>
 </div>
 
 ## 👀 FrontEnd
