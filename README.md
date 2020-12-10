@@ -36,14 +36,10 @@
     <b><i>
         <p>Developer from Russia. I study Python and Java at the university.</p>
         <p>Was engaged in writing websites, actively using Java Script.</p>
-        <p>I do photoshop and photograph</p>
         <p>Love readable and well-structured code</p>
+        <p>Do photoshop and photograph</p>
     </i></b>
 </div>
-
-
-
-
 
 # 💪 Skills
 <img src='pics/langs.png' alt="Skills"/>
@@ -52,8 +48,8 @@
     <img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=4186d3&color=0a9c6d">
     <img src="https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=4186d3&color=0a9c6d">
     <img src="https://img.shields.io/badge/IDE-ItelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=4186d3&color=0a9c6d">
-    <img src="https://img.shields.io/badge/Processor-Intel%20Core%20I5%207500U-informational?style=flat-square&logo=intel&logoColor=4186d3&color=0a9c6d">
-    <img src="https://img.shields.io/badge/Video%20Card-Nvidia%20GeForce%20GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d">
+    <img src="https://img.shields.io/badge/Processor-Core%20I5%207500U-informational?style=flat-square&logo=intel&logoColor=4186d3&color=0a9c6d">
+    <img src="https://img.shields.io/badge/Video%20Card-GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d">
 </div>
 
 ## 👅 Languages
