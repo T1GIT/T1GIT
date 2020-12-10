@@ -21,7 +21,7 @@
 # 💪 Skills
 <img src='pics/langs.png' alt="Skills"/>
 
-![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows?logoWidth=40&logoColor=4186d3&color=0a9c6d)
+![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows?logoWidth=100&logoColor=4186d3&color=0a9c6d)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=4186d3&color=0a9c6d)
 ![](https://img.shields.io/badge/IDE-ItelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=4186d3&color=0a9c6d)
 ![](https://img.shields.io/badge/Processor-Intel%20Core%20I5%207500U-informational?style=flat-square&logo=intel&logoColor=4186d3&color=0a9c6d)
