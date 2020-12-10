@@ -1,6 +1,5 @@
 <img src='pics/nick.png'/>
 
-----------------------------------------------------------------------------------
 <div align="center">
     <a href="#-favorites">
         <img src="https://img.shields.io/badge/-FAVORITES-0a9c6d?style=for-the-badge">
