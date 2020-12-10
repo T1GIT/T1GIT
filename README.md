@@ -39,10 +39,11 @@
     </span>
     <span>
         <img src='icons/skills/python.png' width="40" height="40"/> 
+        
         <b>Python</b>
     </span>
     <span>
-        <img src='icons/skills/js.png' width="40" height="40"/> 
+        <div><img src='icons/skills/js.png' width="40" height="40"/></div> 
         <b>JavaScript</b>
     </span>
 </div>
