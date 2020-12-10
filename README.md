@@ -136,11 +136,11 @@
 # 📊 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true)](https://github.com/T1GIT/github-readme-stats&custom_title=Statistics" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&theme=material-palenight&hide=issues,contribs&include_all_commits=true&custom_title=GitHub%20Statistics&hide_border=true" align="center" />
 </div> 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=vue-dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=cobalt&layout=compact&langs_count=4&custom_title=Favorite%20Languages&hide_border=true" align="center" />
 </div> 
 
 ### 💜 Thanks for reading
