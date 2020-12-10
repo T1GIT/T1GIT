@@ -15,11 +15,11 @@
         <a href="https://t.me/T1TELGRAM">
             <img src="https://img.shields.io/badge/-T1TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
-    </div>
-    <div>
         <a href="https://www.twitch.tv/t1montwitch">
             <img src="https://img.shields.io/badge/-T1MONTWITCH-6441a5?style=for-the-badge&logo=twitch&logoColor=white">
         </a>
+    </div>
+    <div>
         <a href="+79821207355">
             <img src="https://img.shields.io/badge/-+7(982)%20120%2073%2055-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
