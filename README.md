@@ -32,23 +32,34 @@
 ![](https://img.shields.io/badge/Video%20Card-Nvidia%20GeForce%20GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d)
 
 ## 👅 Languages
-<img src='icons/skills/java.png' width="40" height="40"/> **Java**
-<img src='icons/skills/python.png' width="40" height="40"/> **Python**
-<img src='icons/skills/js.png' width="40" height="40"/> **JavaScript**
+<img src='icons/skills/java.png' width="40" height="40"/> 
+<b>Java</b>
+<img src='icons/skills/python.png' width="40" height="40"/> 
+<b>Python</b>
+<img src='icons/skills/js.png' width="40" height="40"/> 
+<b>JavaScript</b>
 
 ## 👀 FrontEnd
-<img src='icons/skills/jquery.png' width="40" height="40"/> **JQuery**
-<img src='icons/skills/sass.png' width="40" height="40"/> **Sass**
+<img src='icons/skills/jquery.png' width="40" height="40"/> 
+<b>JQuery</b>
+<img src='icons/skills/sass.png' width="40" height="40"/> 
+<b>Sass</b>
 
 ## 📡 BackEnd
-<img src='icons/skills/flasks.png' width="40" height="40"/> **Flask**
-<img src='icons/skills/nodejs.png' width="40" height="40"/> **NodeJS**
-<img src='icons/skills/spring.png' width="40" height="40"/> **Spring**
+<img src='icons/skills/flasks.png' width="40" height="40"/> 
+<b>Flask</b>
+<img src='icons/skills/nodejs.png' width="40" height="40"/> 
+<b>NodeJS</b>
+<img src='icons/skills/spring.png' width="40" height="40"/> 
+<b>Spring</b>
 
 ## ✏️ Graphics
-<img src='icons/skills/ps.png' width="40" height="40"/> **Photoshop**
-<img src='icons/skills/ai.png' width="40" height="40"/> **Illustrator**
-<img src='icons/skills/figma.png' width="40" height="40"/> **Figma**
+<img src='icons/skills/ps.png' width="40" height="40"/> 
+<b>Photoshop</b>
+<img src='icons/skills/ai.png' width="40" height="40"/> 
+<b>Illustrator</b>
+<img src='icons/skills/figma.png' width="40" height="40"/> 
+<b>Figma</b>
 
 ## 📜 Others
 <p>
@@ -71,9 +82,9 @@
 # 📊 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true)](https://github.com/T1GIT/github-readme-stats&custom_title=Statistics" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true)](https://github.com/T1GIT/github-readme-stats&custom_title=Statistics" align="center" />
 </div> 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true)](https://github.com/T1GIT/github-readme-stats&custom_title=Statistics)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=vue-dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=vue-dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats" align="center" />
+</div> 
