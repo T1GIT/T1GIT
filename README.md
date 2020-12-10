@@ -39,7 +39,6 @@
     </span>
     <span>
         <img src='icons/skills/python.png' width="40" height="40"/> 
-        
         <b>Python</b>
     </span>
     <span>
