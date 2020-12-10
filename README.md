@@ -47,19 +47,21 @@
 <img src='icons/skills/figma.png' width="40" height="40"/> **Figma**
 
 ## 📜 Others
-<img src='icons/other/bot.png' width="50" height="50"/>
-<img src='icons/other/gson.png' width="50" height="50"/>
-<img src='icons/other/heroku.png' width="50" height="50"/>
-<img src='icons/other/html.png' width="50" height="50"/>
-<img src='icons/other/css.png' width="50" height="50"/>
-<img src='icons/other/pug.svg' width="50" height="50"/>
-<img src='icons/other/ajax.png' width="50" height="50"/>
-<img src='icons/other/rsa.jpg' width="50" height="50"/>
-<img src='icons/other/gulp.png' width="50" height="50"/>
-<img src='icons/other/git.svg' width="50" height="50"/>
-<img src='icons/other/vba.png' width="50" height="50"/>
-<img src='icons/other/pygame.png' width="50" height="50"/>
-<img src='icons/other/tkinter.png' width="50" height="50"/>
+<p>
+    <img src='icons/other/bot.png' width="50" height="50"/>
+    <img src='icons/other/gson.png' width="50" height="50"/>
+    <img src='icons/other/heroku.png' width="50" height="50"/>
+    <img src='icons/other/html.png' width="50" height="50"/>
+    <img src='icons/other/css.png' width="50" height="50"/>
+    <img src='icons/other/pug.svg' width="50" height="50"/>
+    <img src='icons/other/ajax.png' width="50" height="50"/>
+    <img src='icons/other/rsa.jpg' width="50" height="50"/>
+    <img src='icons/other/gulp.png' width="50" height="50"/>
+    <img src='icons/other/git.svg' width="50" height="50"/>
+    <img src='icons/other/vba.png' width="50" height="50"/>
+    <img src='icons/other/pygame.png' width="50" height="50"/>
+    <img src='icons/other/tkinter.png' width="50" height="50"/>
+</p>
 
 
 # 📊 Stats
