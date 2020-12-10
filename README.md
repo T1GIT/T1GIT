@@ -30,13 +30,16 @@
 
 
 # 😇 About
-***Developer from Russia. I study Python and Java at the university.***
 
-***Was engaged in writing websites, actively using Java Script.***
+<b><i>
+    Developer from Russia. I study Python and Java at the university.
+    Was engaged in writing websites, actively using Java Script.
+    I do photoshop and photograph
+    Love readable and well-structured code
+</i></b>
 
-***I do photoshop and photograph***
 
-***Love readable and well-structured code***
+
 
 
 # 💪 Skills
