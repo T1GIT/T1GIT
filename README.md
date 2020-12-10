@@ -1,4 +1,4 @@
-# Hello, I am Dmitriy (づ｡◕‿‿◕｡)づ
+<img src='https://ia.wampi.ru/2020/12/10/NIKNEIM.png'/>
 
 [![VK Badge](https://img.shields.io/badge/-T1MONVK-blue?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/T1MONVK/)](https://vk.com/T1MONVK/) 
 [![Inst Badge](https://img.shields.io/badge/-BEAUTY_IS_A_DUTY-violet?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_beauty_is_a_duty_/)](https://www.instagram.com/_beauty_is_a_duty_/) 
@@ -6,8 +6,13 @@
 [![Phone Badge](https://img.shields.io/badge/-+7(982)%20120%2073%2055-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white&link=+79821207355)](+79821207355) 
 [![Gmail Badge](https://img.shields.io/badge/-derbindima5@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:derbindima5@gmail.com)](mailto:derbindima5@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-T1GIT-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/T1GIT/)](https://www.github.com/T1GIT/) 
+<img src='https://ia.wampi.ru/2020/12/10/YZYKI.png'/>
 
-<img src='https://sun9-72.userapi.com/impg/Ql8CxZmqSaYsbjfBacVlXQ8rc1pcyZDX0QHt6A/a234vTWbwm4.jpg?size=2500x500&quality=96&proxy=1&sign=ac5a53035545b042b19471a9b4245d3b&type=album'/>
+![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=4186d3&color=0a9c6d)
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=4186d3&color=0a9c6d)
+![](https://img.shields.io/badge/IDE-ItelliJ-informational?style=flat-square&logo=&logoColor=4186d3&color=0a9c6d)
+![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=4186d3&color=0a9c6d)
+
 
 ## Skills
 
