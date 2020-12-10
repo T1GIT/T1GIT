@@ -52,7 +52,7 @@
     <div>
         <img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=4186d3&color=0a9c6d">
         <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=4186d3&color=0a9c6d">
-        <img src="https://img.shields.io/badge/OS-Mint-informational?style=flat-square&logo=mint&logoColor=4186d3&color=0a9c6d">
+        <img src="https://img.shields.io/badge/OS-Mint-informational?style=flat-square&logo=linux&logoColor=4186d3&color=0a9c6d">
     </div>
     <div>
         <img src="https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=4186d3&color=0a9c6d">
