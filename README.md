@@ -1,4 +1,4 @@
-<img src='https://ia.wampi.ru/2020/12/10/NIKNEIM196067ac5b96e1c4.png'/>
+<img src='Pictures/nick.png' alt="T1MON"/>
 
 
 # 🔎 Find me
@@ -12,7 +12,7 @@
 
 # 💪 Skills
 
-<img src='https://ia.wampi.ru/2020/12/10/YZYKI.png' alt="Skills"/>
+<img src='Pictures/langs.png' alt="Skills"/>
 
 ![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=4186d3&color=0a9c6d)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=4186d3&color=0a9c6d)
@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Video%20Card-Nvidia%20GeForce%20GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d)
 
 ### 👅 Languages
-* Java
+* <img src="https://devicons.github.io/devicon/devicon.git/icons/java-java.svg" alt="postgresql" width="60" height="60"/> Java
 * Python
 * Java Script
 
@@ -33,6 +33,11 @@
 * Flask
 * NodeJS
 * Spring
+
+### ✏️ Graphics
+* Photoshop
+* Illustrator
+* Figma
 
 ### 📜 Others
 
