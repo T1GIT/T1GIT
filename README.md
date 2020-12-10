@@ -5,8 +5,8 @@
 <div align="center">
     <a href="#-favorites">
         <img src="https://img.shields.io/badge/-FAVORITES-0a9c6d?style=for-the-badge">
-    </a> <a href="#-find">
-        <img src="https://img.shields.io/badge/-FIND-4186d3?style=for-the-badge">
+    </a> <a href="#-contact">
+        <img src="https://img.shields.io/badge/-CONTACT-4186d3?style=for-the-badge">
     </a> <a href="#-about">
         <img src="https://img.shields.io/badge/-ABOUT-0a9c6d?style=for-the-badge">
     </a> <a href="#-skills">
@@ -27,7 +27,7 @@
 [![Sea Battle Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=SeaBattle&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/SeaBattle)
 <!-- TODO: MINI GAMES IS THERE -->
 
-# 🔎 Find
+# 🔎 Contact
 
 <div align="center">
     <div>
