@@ -21,8 +21,8 @@
 ![](https://img.shields.io/badge/Video%20Card-Nvidia%20GeForce%20GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d)
 
 ## 👅 Languages
-<img src='Icons/java.png' width="50" height="50"/> Java
-<img src='Icons/python.png' width="50" height="50"/> Python
+<img src='Icons/java.png' width="50" height="50"/> <b>Java</b>
+<img src='Icons/python.png' width="50" height="50"/> **Python**
 <img src='Icons/js.png' width="50" height="50"/> Java Script
 
 ## 👀 FrontEnd
