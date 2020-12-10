@@ -15,7 +15,6 @@
         <img src="https://img.shields.io/badge/-THANKS-4186d3?style=for-the-badge">
     </a>
 </div>
-
 ----------------------------------------------------------------------------------
 
 # 🌟 Favorites
