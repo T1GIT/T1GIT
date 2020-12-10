@@ -21,23 +21,23 @@
 ![](https://img.shields.io/badge/Video%20Card-Nvidia%20GeForce%20GTX%20950M-informational?style=flat-square&logo=nvidia&logoColor=4186d3&color=0a9c6d)
 
 ## 👅 Languages
-<img src='Icons/java.png' width="50" height="50"/> <b>Java</b>
-<img src='Icons/python.png' width="50" height="50"/> **Python**
-<img src='Icons/js.png' width="50" height="50"/> Java Script
+<img src='Icons/java.png' width="40" height="40"/> **Java**
+<img src='Icons/python.png' width="40" height="40"/> **Python**
+<img src='Icons/js.png' width="40" height="40"/> **JavaScript**
 
 ## 👀 FrontEnd
-<img src='Icons/sass.png' width="50" height="50"/> Sass
-<img src='Icons/jquery.png' width="50" height="50"/> JQuery
+<img src='Icons/sass.png' width="40" height="40"/> **Sass**
+<img src='Icons/jquery.png' width="40" height="40"/> **JQuery**
 
 ## 📡 BackEnd
-<img src='Icons/flasks.png' width="50" height="50"/> Flask
-<img src='Icons/nodejs.png' width="50" height="50"/> NodeJS
-<img src='Icons/spring.png' width="50" height="50"/> Spring
+<img src='Icons/flasks.png' width="40" height="40"/> **Flask**
+<img src='Icons/nodejs.png' width="40" height="40"/> **NodeJS**
+<img src='Icons/spring.png' width="40" height="40"/> **Spring**
 
 ## ✏️ Graphics
-<img src='Icons/ps.png' width="50" height="50"/> Photoshop
-<img src='Icons/ai.png' width="50" height="50"/> Illustrator
-<img src='Icons/figma.png' width="50" height="50"/> Figma
+<img src='Icons/ps.png' width="40" height="40"/> **Photoshop**
+<img src='Icons/ai.png' width="40" height="40"/> **Illustrator**
+<img src='Icons/figma.png' width="40" height="40"/> **Figma**
 
 ## 📜 Others
 
