@@ -1,6 +1,13 @@
 <img src='pics/nick.png'/>
 
-
+<div align="center">
+    <a href="#find">
+        <img src="https://img.shields.io/badge/-FIND-4186d3?style=for-the-badge">
+    </a>
+    <a href="#find">
+        <img src="https://img.shields.io/badge/-FIND-0a9c6d?style=for-the-badge">
+    </a>
+</div>
 
 # 🔎 Find
 
@@ -10,7 +17,7 @@
             <img src="https://img.shields.io/badge/-T1MONVK-blue?style=for-the-badge&logo=vk&logoColor=white">
         </a>
         <a href="https://www.instagram.com/_beauty_is_a_duty_/">
-            <img src="https://img.shields.io/badge/-_BEAUTY_IS_A_DUTY_-C13584?style=for-the-badge&logo=instagram&logoColor=white">
+            <img src="https://img.shields.io/badge/-__BEAUTY__IS__A__DUTY__-C13584?style=for-the-badge&logo=instagram&logoColor=white">
         </a>
         <a href="https://t.me/T1TELGRAM">
             <img src="https://img.shields.io/badge/-T1TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
