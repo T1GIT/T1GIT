@@ -66,4 +66,5 @@
 
 # 📊 Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true)](https://github.com/T1GIT/github-readme-stats&custom_title=Statistics)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=vue-dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
