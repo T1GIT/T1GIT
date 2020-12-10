@@ -41,7 +41,7 @@
         <img src='icons/skills/python.png' width="40" height="40"/> 
         <b>Python</b>
     </span>
-    <span align="center" onmousedown="alert('jifejf')">
+    <span align="center" onmouseenter="alert('jifejf')">
         <img src='icons/skills/js.png' width="40" height="40"/>
         <b>JavaScript</b>
     </span>
