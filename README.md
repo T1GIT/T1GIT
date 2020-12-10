@@ -33,15 +33,15 @@
 
 ## 👅 Languages
 <div align="center">
-    <span>
-        <img src='icons/skills/java.png' width="40" height="40"/> 
+    <span align="center">
+        <div><img src='icons/skills/java.png' width="40" height="40"/></div>
         <b>Java</b>
     </span>
-    <span>
-        <img src='icons/skills/python.png' width="40" height="40"/> 
+    <span align="center">
+        <div><img src='icons/skills/python.png' width="40" height="40"/></div> 
         <b>Python</b>
     </span>
-    <span>
+    <span align="center">
         <div><img src='icons/skills/js.png' width="40" height="40"/></div> 
         <b>JavaScript</b>
     </span>
