@@ -33,10 +33,14 @@
 
 
 <div align="center">
-    <p>Developer from Russia. I study Python and Java at the university.</p>
-    <p>Was engaged in writing websites, actively using Java Script.</p>
-    <p>I do photoshop and photograph</p>
-    <p>Love readable and well-structured code</p>
+    <b>
+    <i>
+        <p>Developer from Russia. I study Python and Java at the university.</p>
+        <p>Was engaged in writing websites, actively using Java Script.</p>
+        <p>I do photoshop and photograph</p>
+        <p>Love readable and well-structured code</p>
+    </i>
+    </b>
 </div>
 
 
