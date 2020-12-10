@@ -1,11 +1,20 @@
 <img src='pics/nick.png'/>
 
 <div align="center">
-    <a href="#🔎-Find">
+    <a href="#-Find">
         <img src="https://img.shields.io/badge/-FIND-4186d3?style=for-the-badge">
     </a>
-    <a href="#find">
-        <img src="https://img.shields.io/badge/-FIND-0a9c6d?style=for-the-badge">
+    <a href="#-about">
+        <img src="https://img.shields.io/badge/-ABOUT-0a9c6d?style=for-the-badge">
+    </a>
+    <a href="#-skills">
+        <img src="https://img.shields.io/badge/-SKILLS-4186d3?style=for-the-badge">
+    </a>
+    <a href="#-stats">
+        <img src="https://img.shields.io/badge/-STATS-0a9c6d?style=for-the-badge">
+    </a>
+    <a href="#-thanks-for-reading">
+        <img src="https://img.shields.io/badge/-THANKS-4186d3?style=for-the-badge">
     </a>
 </div>
 
@@ -133,3 +142,5 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=vue-dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats" align="center" />
 </div> 
+
+# 💜 Thanks for reading
