@@ -25,6 +25,7 @@
 [![Time Manager Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Time-Manager&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/Time-Manager)
 [![Weather Bot Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Weather_Bot&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/Weather_bot)
 [![Sea Battle Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=SeaBattle&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/SeaBattle)
+[![Mini Games Repo](https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Mini_games&theme=midnight-purple&hide_border=true)](https://github.com/T1GIT/Mini_games)
 
 
 # 🔎 Contact
