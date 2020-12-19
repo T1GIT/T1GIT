@@ -136,6 +136,7 @@
     <img src='icons/other/bot.png' width="50" height="50"/>
     <img src='icons/other/gson.png' width="50" height="50"/>
     <img src='icons/other/heroku.png' width="50" height="50"/>
+    <img src='icons/other/hibernate.png' width="50" height="50"/>
     <img src='icons/other/html.png' width="50" height="50"/>
     <img src='icons/other/css.png' width="50" height="50"/>
     <img src='icons/other/ajax.png' width="50" height="50"/>
