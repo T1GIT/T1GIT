@@ -22,21 +22,21 @@
 
 # 🌟 Favorites
 
-<a href="https://github.com/T1GIT/Time-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Time-Manager&theme=midnight-purple&hide_border=true" />
-</a>
+<div align="center">
+    <a href="https://github.com/T1GIT/Time-Manager">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Time-Manager&theme=midnight-purple&hide_border=true" />
+    </a>
+    <a href="https://github.com/T1GIT/Weather_bot">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Weather_Bot&theme=midnight-purple&hide_border=true" />
+    </a>
+    <a href="https://github.com/T1GIT/SeaBattle">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=SeaBattle&theme=midnight-purple&hide_border=true" />
+    </a>
+    <a href="https://github.com/T1GIT/Mini_games">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Mini_games&theme=midnight-purple&hide_border=true" />
+    </a>
+</div>
 
-<a href="https://github.com/T1GIT/Weather_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Weather_Bot&theme=midnight-purple&hide_border=true" />
-</a>
-
-<a href="https://github.com/T1GIT/SeaBattle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=SeaBattle&theme=midnight-purple&hide_border=true" />
-</a>
-
-<a href="https://github.com/T1GIT/Mini_games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T1GIT&repo=Mini_games&theme=midnight-purple&hide_border=true" />
-</a>
 
 
 # 🔎 Contact
