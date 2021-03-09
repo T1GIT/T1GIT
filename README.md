@@ -164,32 +164,15 @@
 # 📊 Statistics
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/
-              ?user=T1GIT
-              &theme=material-palenight
-              &hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=T1GIT&theme=material-palenight&hide_border=true"/>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api
-              ?username=T1GIT
-              &show_icons=true
-              &theme=material-palenight
-              &hide=issues,contribs
-              &include_all_commits=true
-              &custom_title=GitHub%20Statistics
-              &hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=T1GIT&show_icons=true&theme=material-palenight&hide=issues,contribs&include_all_commits=true&custom_title=GitHub%20Statistics&hide_border=true"/>
 </div> 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/
-              ?username=T1GIT
-              &exclude_repo=Player
-              &theme=material-palenight
-              &layout=compact
-              &langs_count=4
-              &custom_title=Favorite%20Languages
-              &hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=material-palenight&layout=compact&langs_count=4&custom_title=Favorite%20Languages&hide_border=true"/>
 </div> 
 
 <h3 align="right"> 💜 Thanks for reading </h3>
