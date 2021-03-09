@@ -168,11 +168,11 @@
 </div> 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=cobalt&layout=compact&langs_count=4&custom_title=Favorite%20Languages&hide_border=true" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1GIT&exclude_repo=Player&theme=material-palenight&layout=compact&langs_count=4&custom_title=Favorite%20Languages&hide_border=true" align="center" />
 </div> 
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=T1GIT">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=T1GIT&theme=material-palenight">
 </div>
 
 <h3 align="right"> 💜 Thanks for reading </h3>
