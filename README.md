@@ -101,14 +101,16 @@
     <b>Java</b>
     <img src='icons/skills/python.png' width="50" height="50"/> 
     <b>Python</b>
-    <img src='icons/skills/js.png' width="50" height="50"/>
-    <b>JavaScript</b>
+    <img src='icons/skills/typescript.png' width="50" height="50"/>
+    <b>TypeScript</b>
 </div>
 
 
 ## 👀 FrontEnd
 
 <div align="center">
+    <img src='icons/skills/vue.png' width="50" height="50"/> 
+    <b>Vue</b>
     <img src='icons/skills/jquery.png' width="50" height="50"/> 
     <b>JQuery</b>
     <img src='icons/skills/sass.png' width="50" height="50"/> 
@@ -125,8 +127,26 @@
     <b>Flask</b>
     <img src='icons/skills/nodejs.png' width="50" height="50"/> 
     <b>NodeJS</b>
+    <img src='icons/skills/express.png' width="50" height="50"/> 
+    <b>Express</b>
     <img src='icons/skills/spring.png' width="50" height="50"/> 
-    <b>Spring</b>
+    <b>Spring Web</b>
+</div>
+
+
+## 💿 DataBase
+
+<div align="center">
+    <img src='icons/skills/mongoose.png' width="50" height="50"/> 
+    <b>Mongoose</b>
+    <img src='icons/skills/mongodb.png' width="50" height="50"/> 
+    <b>MongoDB</b>
+    <img src='icons/skills/spring-data.png' width="50" height="50"/> 
+    <b>Spring Data</b>
+    <img src='icons/skills/sequelize.png' width="50" height="50"/> 
+    <b>Sequelize</b>
+    <img src='icons/skills/postgres.png' width="50" height="50"/> 
+    <b>PostgreSQL</b>
 </div>
 
 
