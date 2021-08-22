@@ -134,23 +134,29 @@
 </div>
 
 
-## 💿 DataBase
+## ✏️ ORM
 
 <div align="center">
     <img src='icons/skills/mongoose.png' width="50" height="50"/> 
     <b>Mongoose</b>
-    <img src='icons/skills/mongodb.png' width="50" height="50"/> 
-    <b>MongoDB</b>
     <img src='icons/skills/spring-data.png' width="50" height="50"/> 
     <b>Spring Data</b>
     <img src='icons/skills/sequelize.png' width="50" height="50"/> 
     <b>Sequelize</b>
+</div>
+
+
+## 💿 DataBase
+
+<div align="center">
+    <img src='icons/skills/mongodb.png' width="50" height="50"/> 
+    <b>MongoDB</b>
     <img src='icons/skills/postgres.png' width="50" height="50"/> 
     <b>PostgreSQL</b>
 </div>
 
 
-## ✏️ Graphics
+## 🎨️ Graphics
 
 <div align="center">
     <img src='icons/skills/ps.png' width="50" height="50"/> 
