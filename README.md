@@ -13,9 +13,6 @@
         <img src="https://img.shields.io/badge/-SKILLS-4186d3?style=for-the-badge">
     </a> <a href="#-statistics">
         <img src="https://img.shields.io/badge/-STATISTICS-0a9c6d?style=for-the-badge">
-    </a> <a href="#--thanks-for-reading-">
-        <img src="https://img.shields.io/badge/-THANKS-4186d3?style=for-the-badge">
-    </a>
 </div>
 
 ------------------------------------------------------------------------------
@@ -69,10 +66,9 @@
 
 <div align="center">
     <b><i>
-        <p>Developer from Russia. I study Python and Java at the university.</p>
-        <p>Was engaged in writing websites, actively using Java Script.</p>
-        <p>Love readable and well-structured code</p>
-        <p>Do photoshop and photograph</p>
+        <p>Developer from Russia. I study Web, Python and Java at the university.</p>
+        <p>Have some full-functional projects written on Java, Python and JS (TS)</p>
+        <p>Work in the FinUniversity Laboratory as the FullStack developer</p>
     </i></b>
 </div>
 
@@ -97,11 +93,13 @@
 ## 👅 Languages
 
 <div align="center">
-    <img src='icons/skills/java.png' width="50" height="50"/> 
+    <img src='icons/skills/.png' width="50" height="50"/> 
     <b>Java</b>
-    <img src='icons/skills/python.png' width="50" height="50"/> 
+    <img src='icons/python.png' width="50" height="50"/> 
     <b>Python</b>
-    <img src='icons/skills/typescript.png' width="50" height="50"/>
+    <img src='icons/javascript.png' width="50" height="50"/>
+    <b>JavaScript</b>
+    <img src='icons/typescript.png' width="50" height="50"/>
     <b>TypeScript</b>
 </div>
 
@@ -109,27 +107,33 @@
 ## 👀 FrontEnd
 
 <div align="center">
-    <img src='icons/skills/vue.png' width="50" height="50"/> 
+    <img src='icons/vue.png' width="50" height="50"/> 
     <b>Vue</b>
-    <img src='icons/skills/jquery.png' width="50" height="50"/> 
-    <b>JQuery</b>
-    <img src='icons/skills/sass.png' width="50" height="50"/> 
+    <img src='icons/angular.png' width="50" height="50"/> 
+    <b>Angular</b>
+    <img src='icons/sass.png' width="50" height="50"/> 
     <b>Sass</b>
-    <img src='icons/skills/pug.svg' width="50" height="50"/>
-    <b>Pug</b>
+    <img src='icons/graphql.png' width="50" height="50"/> 
+    <b>GraphQL</b>
+    <img src='icons/jquery.png' width="50" height="50"/> 
+    <b>JQuery</b>
 </div>
 
 
 ## 📡 BackEnd
 
 <div align="center">
-    <img src='icons/skills/flasks.png' width="50" height="50"/> 
-    <b>Flask</b>
-    <img src='icons/skills/nodejs.png' width="50" height="50"/> 
+    <img src='icons/nest.png' width="50" height="50"/> 
+    <b>Nest</b>
+    <img src='icons/nodejs.png' width="50" height="50"/> 
     <b>NodeJS</b>
-    <img src='icons/skills/express.png' width="50" height="50"/> 
+    <img src='icons/express.png' width="50" height="50"/> 
     <b>Express</b>
-    <img src='icons/skills/spring.png' width="50" height="50"/> 
+    <img src='icons/fastapi.png' width="50" height="50"/> 
+    <b>FastAPI</b>
+    <img src='icons/flasks.png' width="50" height="50"/> 
+    <b>Flask</b>
+    <img src='icons/spring.png' width="50" height="50"/> 
     <b>Spring Web</b>
 </div>
 
@@ -137,21 +141,23 @@
 ## ✏️ ORM
 
 <div align="center">
-    <img src='icons/skills/mongoose.png' width="50" height="50"/> 
+    <img src='icons/mongoose.png' width="50" height="50"/> 
     <b>Mongoose</b>
-    <img src='icons/skills/spring-data.png' width="50" height="50"/> 
-    <b>Spring Data</b>
-    <img src='icons/skills/sequelize.png' width="50" height="50"/> 
+    <img src='icons/sequelize.png' width="50" height="50"/> 
     <b>Sequelize</b>
+    <img src='icons/spring-data.png' width="50" height="50"/> 
+    <b>Spring Data</b>
 </div>
 
 
 ## 💿 DataBase
 
 <div align="center">
-    <img src='icons/skills/mongodb.png' width="50" height="50"/> 
+    <img src='icons/mongodb.png' width="50" height="50"/> 
     <b>MongoDB</b>
-    <img src='icons/skills/postgres.png' width="50" height="50"/> 
+    <img src='icons/redis.png' width="50" height="50"/> 
+    <b>Redis</b>
+    <img src='icons/postgres.png' width="50" height="50"/> 
     <b>PostgreSQL</b>
 </div>
 
@@ -159,32 +165,16 @@
 ## 🎨️ Graphics
 
 <div align="center">
-    <img src='icons/skills/ps.png' width="50" height="50"/> 
+    <img src='icons/ps.png' width="50" height="50"/> 
     <b>Photoshop</b>
-    <img src='icons/skills/ai.png' width="50" height="50"/> 
+    <img src='icons/ai.png' width="50" height="50"/> 
     <b>Illustrator</b>
-    <img src='icons/skills/figma.png' width="50" height="50"/> 
+    <img src='icons/figma.png' width="50" height="50"/> 
     <b>Figma</b>
 </div>
 
 
-## 📜 Others
-
-<div align="center">
-    <img src='icons/other/bot.png' width="50" height="50"/>
-    <img src='icons/other/gson.png' width="50" height="50"/>
-    <img src='icons/other/heroku.png' width="50" height="50"/>
-    <img src='icons/other/hibernate.png' width="50" height="50"/>
-    <img src='icons/other/html.png' width="50" height="50"/>
-    <img src='icons/other/css.png' width="50" height="50"/>
-    <img src='icons/other/ajax.png' width="50" height="50"/>
-    <img src='icons/other/rsa.jpg' width="50" height="50"/>
-    <img src='icons/other/gulp.png' width="50" height="50"/>
-    <img src='icons/other/git.svg' width="50" height="50"/>
-    <img src='icons/other/vba.png' width="50" height="50"/>
-    <img src='icons/other/pygame.png' width="50" height="50"/>
-    <img src='icons/other/tkinter.png' width="50" height="50"/>
-</div>
+------------------------------------------------------------------------------
 
 
 # 📊 Statistics
