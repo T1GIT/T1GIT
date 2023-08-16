@@ -93,7 +93,7 @@
 ## 👅 Languages
 
 <div align="center">
-    <img src='icons/skills/.png' width="50" height="50"/> 
+    <img src='icons/skills/java.png' width="50" height="50"/> 
     <b>Java</b>
     <img src='icons/python.png' width="50" height="50"/> 
     <b>Python</b>
